@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "nanojev": {
+      "command": "python",
+      "args": [
+        "D:\\nanojev_mcp\\mcp_nanojev.py"
+      ],
+      "env": {
+        "NANOJEV_EVALUATE_URL": "http://127.0.0.1:8765/api/evaluate"
+      }
+    }
+  }
+}
